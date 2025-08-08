@@ -1,0 +1,27 @@
+.section1 {
+    background-color: #57564F;
+}
+
+.section2 {
+    background-color: #7A7A73;
+}
+
+.section3 {
+    background-color: #DDDAD0;
+}
+
+.section4 {
+    background-color: #F8F3CE;
+}
+
+.profilepic {height: 500px;
+    
+    border-radius: 50%;}
+
+.gcontainer{display: grid;
+grid-template-columns: 1fr 1fr;
+grid-template-rows: 1fr 1fr ;
+}
+
+h1, h2 {font-family: serif;}
+p {font-family: sans-serif;}
