@@ -14,8 +14,7 @@
     background-color: #F8F3CE;
 }
 
-.profilepic {height: 500px;
-    
+.profilepic {    
     border-radius: 50%;}
 
 .gcontainer{display: grid;
@@ -24,4 +23,5 @@ grid-template-rows: 1fr 1fr ;
 }
 
 h1, h2 {font-family: serif;}
+
 p {font-family: sans-serif;}
